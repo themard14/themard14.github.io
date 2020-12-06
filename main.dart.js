@@ -27563,7 +27563,7 @@ $S:48}
 F.tx.prototype={
 as:function(){return new F.H8(C.m)}}
 F.H8.prototype={
-G:function(a){var s=null,r=U.a2M("/assets/logo-with-text.png",s,s)
+G:function(a){var s=null,r=U.a2M("assets/logo-with-text.png",s,s)
 A.dZ(s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s)
 return new K.tw(5,C.d6,new S.xi(s),200,C.v,r,L.c5("Get ready to throw some arrows",s,s,s,A.dZ(s,s,C.v,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s),s),s)}}
 Q.hC.prototype={
